@@ -15,7 +15,7 @@ An HTML and CSS-based QR Code Generator that allows users to create QR codes for
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qrcode-generator.git
+   git clone https://github.com/VivekKumar015/QR_code_generator.git
    ```
 2. Open `index.html` in your web browser.
 
